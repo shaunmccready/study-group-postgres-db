@@ -1,7 +1,7 @@
 # Study group meeting organizer - PostgreSQL database for Java API
 
 * _ReactJs user interface repository is located at (https://github.com/pachoclo/study-group-react-ui)_
-* _Java backend Api repository is located at (NEW URL TO FOLLOW)_
+* _Java backend Api repository is located at (https://github.com/shaunmccready/study-group-java-api)_
 
 
 ***
